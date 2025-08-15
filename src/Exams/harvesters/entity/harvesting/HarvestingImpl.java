@@ -2,7 +2,7 @@ package Exams.harvesters.entity.harvesting;
 
 import Exams.harvesters.entity.field.CornField;
 import Exams.harvesters.entity.field.Field;
-import harvesters.entity.harvester.Harvester;
+import Exams.harvesters.entity.harvester.Harvester;
 
 import java.util.Collection;
 

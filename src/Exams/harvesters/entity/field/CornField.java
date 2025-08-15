@@ -1,6 +1,6 @@
 package Exams.harvesters.entity.field;
 
-import harvesters.entity.harvester.Harvester;
+import Exams.harvesters.entity.harvester.Harvester;
 
 import java.util.ArrayList;
 import java.util.Collection;
