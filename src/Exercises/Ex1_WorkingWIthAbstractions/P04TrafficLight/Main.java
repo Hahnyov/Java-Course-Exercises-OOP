@@ -20,8 +20,7 @@ public class Main {
     }
 
     private static void updateLights(Lights[] lights) {
-        //red->green->yellow->red
-        //Light light ->
+
         for(int index = 0; index < lights.length; index++) {
             switch (lights[index]) {
                 case RED -> lights[index] =Lights.GREEN;
